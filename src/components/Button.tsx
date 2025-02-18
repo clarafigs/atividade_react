@@ -4,7 +4,7 @@
 import React from 'react';
 
 const Button: React.FC = () => {
-  // Função para o alerta
+  
   const handleClick = () => {
     alert('Botão foi clicado!');
   };

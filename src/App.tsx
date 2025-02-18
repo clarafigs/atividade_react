@@ -1,4 +1,4 @@
-// src/App.tsx
+
 import React from 'react';
 import Header from './components/Header.tsx';
 import Button from './components/Button.tsx';
